@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5NIT_ConsApp_ProjectDna_Rna", "5NIT_ConsApp_ProjectDna_Rna\5NIT_ConsApp_ProjectDna_Rna.csproj", "{FD0CBB11-6F79-41AA-9EF0-09E30A476F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD0CBB11-6F79-41AA-9EF0-09E30A476F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0CBB11-6F79-41AA-9EF0-09E30A476F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0CBB11-6F79-41AA-9EF0-09E30A476F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0CBB11-6F79-41AA-9EF0-09E30A476F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B6F31EC-0703-496A-BC2C-388F3BFC4F17}
+	EndGlobalSection
+EndGlobal
